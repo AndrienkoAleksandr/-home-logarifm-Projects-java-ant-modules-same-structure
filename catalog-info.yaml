@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: home-logarifm-Projects-java-ant-modules-same-structure
+  annotations:
+    github.com/project-slug: AndrienkoAleksandr/-home-logarifm-Projects-java-ant-modules-same-structure
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/andrienkoaleksandr
